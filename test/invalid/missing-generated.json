@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "games": [
+    {
+      "id": "tos",
+      "name": "Tales of Symphonia",
+      "japan_release_year": 2003,
+      "repository": "To-Recomp/tos-recomp",
+      "platforms": [
+        {
+          "platform": "GameCube",
+          "region": "France (PAL)",
+          "status": "unsupported",
+          "tested": false
+        }
+      ]
+    }
+  ]
+}
