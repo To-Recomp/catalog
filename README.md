@@ -37,6 +37,7 @@ Defined by the JSON Schema `schema/catalog-1.json`. Launchers fetch `catalog.jso
 | `games[].repository` | `owner/name` of the recomp repository; only games with one are listed |
 | `games[].manifest` | optional `https` URL of the game's `recomplauncher.json` |
 | `games[].platforms[]` | at least one; each `platform` and `region` pair appears once per game |
+| `platforms[].region` | release region (`Japan`, `USA`, `Europe`); `Worldwide` when the build is the same everywhere, as on Windows |
 | `platforms[].status` | `stable`, `beta`, `alpha`, `unsupported` or `coming-soon` (announced, no playable build yet) |
 | `platforms[].tested` | boolean: someone ran it on real hardware or a reference setup |
 
