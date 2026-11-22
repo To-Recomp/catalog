@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "generated": "2026-11-22T12:00:00Z",
+  "games": [
+    {
+      "id": "tos",
+      "name": "Tales of Symphonia",
+      "japan_release_year": 2003,
+      "repository": "To-Recomp/tos-recomp",
+      "platforms": [
+        {
+          "platform": "GameCube",
+          "region": "France (PAL)",
+          "status": "unsupported",
+          "tested": false,
+          "notes": "ok"
+        },
+        {
+          "platform": "GameCube",
+          "region": "Japan (NTSC-J)",
+          "status": "beta",
+          "tested": true
+        }
+      ],
+      "manifest": "https://raw.githubusercontent.com/To-Recomp/tos-recomp/main/recomplauncher.json",
+      "icon": "x.png"
+    },
+    {
+      "id": "tales-of-eternia",
+      "name": "Tales of Eternia",
+      "japan_release_year": 2000,
+      "repository": "To-Recomp/toe",
+      "platforms": [
+        {
+          "platform": "PS1",
+          "region": "USA",
+          "status": "alpha",
+          "tested": false
+        }
+      ]
+    }
+  ],
+  "future_field": {
+    "a": 1
+  }
+}
