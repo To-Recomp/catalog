@@ -44,7 +44,7 @@ Images are not part of the catalog: the launcher shows initials.
 
 ## Contributing an entry
 
-Edit `catalog.json`, then run `npm ci && npm test` (Node 20+). The same checks run on every pull request. A pull request is rejected when the file doesn't match the schema, repeats a game `id`, or repeats a platform and region of one game.
+Edit `catalog.json`, then run `npm ci && npm test` (Node 26). The same checks run on every pull request. A pull request is rejected when the file doesn't match the schema, repeats a game `id`, or repeats a platform and region of one game.
 
 Status: format 1 with the first entry, *Tales of Symphonia*.
 
