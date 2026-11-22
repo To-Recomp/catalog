@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "generated": "2026-11-22T12:00:00Z",
+  "games": [
+    {
+      "id": "tos",
+      "name": "Tales of Symphonia",
+      "japan_release_year": 2003,
+      "repository": "To-Recomp/tos-recomp",
+      "platforms": [
+        {
+          "platform": "GameCube",
+          "regions": [
+            "France (PAL)"
+          ],
+          "state": "planned",
+          "maturity": "alpha"
+        }
+      ]
+    }
+  ]
+}

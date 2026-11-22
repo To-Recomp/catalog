@@ -10,19 +10,23 @@
       "platforms": [
         {
           "platform": "GameCube",
-          "region": "France (PAL)",
-          "status": "unsupported",
-          "tested": false,
+          "regions": [
+            "France (PAL)",
+            "Japan (NTSC-J)"
+          ],
+          "state": "playable",
+          "maturity": "beta",
           "notes": "ok"
         },
         {
-          "platform": "GameCube",
-          "region": "Japan (NTSC-J)",
-          "status": "beta",
-          "tested": true
+          "platform": "PlayStation 2",
+          "regions": [
+            "Japan"
+          ],
+          "state": "planned"
         }
       ],
-      "manifest": "https://raw.githubusercontent.com/To-Recomp/tos-recomp/main/recomplauncher.json",
+      "manifest": "https://example.org/recomplauncher.json",
       "icon": "x.png"
     },
     {
@@ -33,9 +37,10 @@
       "platforms": [
         {
           "platform": "PS1",
-          "region": "USA",
-          "status": "alpha",
-          "tested": false
+          "regions": [
+            "USA"
+          ],
+          "state": "in-progress"
         }
       ]
     }
