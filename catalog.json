@@ -121,6 +121,12 @@
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
         }
       ]
     },
@@ -182,6 +188,12 @@
       "platforms": [
         {
           "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
@@ -283,6 +295,42 @@
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
         }
       ]
     },
@@ -294,6 +342,30 @@
       "platforms": [
         {
           "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
@@ -363,6 +435,24 @@
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
         }
       ]
     },
@@ -398,6 +488,12 @@
         },
         {
           "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
