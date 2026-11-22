@@ -71,6 +71,12 @@
           "region": "Japan",
           "status": "coming-soon",
           "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
         }
       ]
     },
