@@ -10,8 +10,11 @@
       "platforms": [
         {
           "platform": "GameCube",
-          "status": "unsupported",
-          "tested": false
+          "regions": [
+            "France (PAL)"
+          ],
+          "state": "playable",
+          "maturity": "gold"
         }
       ]
     }

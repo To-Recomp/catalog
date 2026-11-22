@@ -10,9 +10,10 @@
       "platforms": [
         {
           "platform": "GameCube",
-          "region": "France (PAL)",
-          "status": "unsupported",
-          "tested": "no"
+          "regions": [
+            "France (PAL)"
+          ],
+          "state": "working"
         }
       ]
     }

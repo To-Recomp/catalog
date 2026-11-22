@@ -19,12 +19,15 @@ const expected = {
   "release-year-not-an-integer.json": "/games/0/japan_release_year",
   "release-year-out-of-range.json": "/games/0/japan_release_year",
   "repository-not-owner-slash-name.json": "/games/0/repository",
-  "manifest-not-https.json": "/games/0/manifest",
   "game-without-platforms.json": "/games/0/platforms",
-  "unknown-status.json": "/games/0/platforms/0/status",
-  "tested-not-a-boolean.json": "/games/0/platforms/0/tested",
-  "platform-missing-region.json": "region",
-  "duplicate-platform-and-region.json": "duplicate platform and region",
+  "unknown-state.json": "/games/0/platforms/0/state",
+  "unknown-maturity.json": "/games/0/platforms/0/maturity",
+  "playable-without-maturity.json": "maturity",
+  "maturity-on-unplayable.json": "/games/0/platforms/0",
+  "platform-missing-regions.json": "regions",
+  "regions-empty.json": "/games/0/platforms/0/regions",
+  "regions-repeated.json": "/games/0/platforms/0/regions",
+  "duplicate-platform.json": "duplicate platform",
 };
 
 for (const [name, path] of fixtures("valid")) {

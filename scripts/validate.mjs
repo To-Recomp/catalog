@@ -21,13 +21,12 @@ export function validate(catalog) {
   catalog.games.forEach((game, g) => {
     if (ids.has(game.id)) errors.push(`/games/${g}/id duplicate game id "${game.id}"`);
     ids.add(game.id);
-    const targets = new Set();
+    const platforms = new Set();
     game.platforms.forEach((p, i) => {
-      const key = `${p.platform}\u0000${p.region}`;
-      if (targets.has(key)) {
-        errors.push(`/games/${g}/platforms/${i} duplicate platform and region "${p.platform}" / "${p.region}"`);
+      if (platforms.has(p.platform)) {
+        errors.push(`/games/${g}/platforms/${i} duplicate platform "${p.platform}"`);
       }
-      targets.add(key);
+      platforms.add(p.platform);
     });
   });
   return errors;

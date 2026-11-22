@@ -18,9 +18,9 @@ Defined by the JSON Schema `schema/catalog-1.json`. Launchers fetch `catalog.jso
       "name": "Tales of Symphonia",
       "japan_release_year": 2003,
       "repository": "To-Recomp/tos-recomp",
-      "manifest": "https://raw.githubusercontent.com/To-Recomp/tos-recomp/main/recomplauncher.json",
       "platforms": [
-        { "platform": "GameCube", "region": "France (PAL)", "status": "unsupported", "tested": false }
+        { "platform": "GameCube", "regions": ["Japan", "USA", "France (PAL)"], "state": "playable", "maturity": "beta" },
+        { "platform": "PlayStation 3", "regions": ["Japan"], "state": "planned" }
       ]
     }
   ]
@@ -35,17 +35,18 @@ Defined by the JSON Schema `schema/catalog-1.json`. Launchers fetch `catalog.jso
 | `games[].name` | non-empty, shown in the sidebar |
 | `games[].japan_release_year` | integer, 1990 to 2100; the launcher sorts the sidebar by it |
 | `games[].repository` | `owner/name` of the recomp repository; only games with one are listed |
-| `games[].manifest` | optional `https` URL of the game's `recomplauncher.json` |
-| `games[].platforms[]` | at least one; each `platform` and `region` pair appears once per game |
-| `platforms[].region` | release region (`Japan`, `USA`, `Europe`); `Worldwide` when the build is the same everywhere, as on Windows |
-| `platforms[].status` | `stable`, `beta`, `alpha`, `unsupported` or `coming-soon` (announced, no playable build yet) |
-| `platforms[].tested` | boolean: someone ran it on real hardware or a reference setup |
+| `games[].platforms[]` | at least one; one entry per console, each `platform` appears once per game |
+| `platforms[].regions` | at least one release region of the game on that console (`Japan`, `USA`, `Europe`, `Worldwide` for a build that is the same everywhere, as on Windows); information only, the launcher lists consoles, not regions |
+| `platforms[].state` | what the launcher can do with the console: `planned` (announced, nothing yet), `in-progress` (being worked on, not installable), `playable` (a release can be installed) or `unsupported` (won't be done) |
+| `platforms[].maturity` | `alpha`, `beta` or `stable`; **required when `state` is `playable`, forbidden otherwise** |
+
+Maturity: `alpha` has been run by at least one person and is expected to break; `beta` is playable from start to finish with known problems; `stable` has no known blocking problem.
 
 Images are not part of the catalog: the launcher shows initials.
 
 ## Contributing an entry
 
-Games and platforms can be listed in any order: nothing depends on the order of the file, the launcher sorts. Just fill in the values in `catalog.json`, then run `npm ci && npm test` (Node 26). The same checks run on every pull request. A pull request is rejected when the file doesn't match the schema, repeats a game `id`, or repeats a platform and region of one game.
+Games and platforms can be listed in any order: nothing depends on the order of the file, the launcher sorts. Just fill in the values in `catalog.json`, then run `npm ci && npm test` (Node 26). The same checks run on every pull request. A pull request is rejected when the file doesn't match the schema, repeats a game `id`, or repeats a platform of one game.
 
 Status: format 1 with the first entry, *Tales of Symphonia*.
 

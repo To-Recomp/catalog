@@ -10,12 +10,12 @@
       "platforms": [
         {
           "platform": "GameCube",
-          "region": "France (PAL)",
-          "status": "unsupported",
-          "tested": false
+          "regions": [
+            "France (PAL)"
+          ],
+          "state": "playable"
         }
-      ],
-      "manifest": "http://example.com/recomplauncher.json"
+      ]
     }
   ]
 }
