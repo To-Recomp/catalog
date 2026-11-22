@@ -33,7 +33,7 @@ Defined by the JSON Schema `schema/catalog-1.json`. Launchers fetch `catalog.jso
 | `generated` | RFC 3339 timestamp; set it to the date of your change |
 | `games[].id` | stable, lowercase letters, digits and single dashes (`tos`); never reused |
 | `games[].name` | non-empty, shown in the sidebar |
-| `games[].japan_release_year` | integer, 1990 to 2100; the sidebar order |
+| `games[].japan_release_year` | integer, 1990 to 2100; the launcher sorts the sidebar by it |
 | `games[].repository` | `owner/name` of the recomp repository; only games with one are listed |
 | `games[].manifest` | optional `https` URL of the game's `recomplauncher.json` |
 | `games[].platforms[]` | at least one; each `platform` and `region` pair appears once per game |
@@ -44,7 +44,7 @@ Images are not part of the catalog: the launcher shows initials.
 
 ## Contributing an entry
 
-Edit `catalog.json`, then run `npm ci && npm test` (Node 26). The same checks run on every pull request. A pull request is rejected when the file doesn't match the schema, repeats a game `id`, or repeats a platform and region of one game.
+Games and platforms can be listed in any order: nothing depends on the order of the file, the launcher sorts. Just fill in the values in `catalog.json`, then run `npm ci && npm test` (Node 26). The same checks run on every pull request. A pull request is rejected when the file doesn't match the schema, repeats a game `id`, or repeats a platform and region of one game.
 
 Status: format 1 with the first entry, *Tales of Symphonia*.
 
