@@ -50,4 +50,8 @@ Status: format 1 with the first entry, *Tales of Symphonia*.
 
 Not affiliated with or endorsed by Bandai Namco Entertainment, Sony Interactive Entertainment, Nintendo or any game publisher or developer. This project contains no game files; you bring your own copy of the game.
 
+## AI assistance
+
+This project is developed with the help of AI coding assistants (large language models). A large part of the data tooling, documentation and issues is written by AI agents; the maintainer directs the work and reviews it. The result can still contain mistakes: check what matters to you before relying on it. Generated code is under the same licence as the rest of the repository.
+
 License: GPL v3 (`LICENSE`). Contributions: `CONTRIBUTING.md`.
