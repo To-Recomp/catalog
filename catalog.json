@@ -104,19 +104,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         },
@@ -282,19 +270,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         },
@@ -464,19 +440,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         },
@@ -658,19 +622,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         }
@@ -756,19 +708,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         }
@@ -844,13 +784,7 @@
         },
         {
           "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         }
@@ -888,19 +822,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         },
@@ -1040,19 +962,7 @@
         },
         {
           "platform": "Windows",
-          "region": "Japan",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "USA",
-          "status": "coming-soon",
-          "tested": false
-        },
-        {
-          "platform": "Windows",
-          "region": "Europe",
+          "region": "Worldwide",
           "status": "coming-soon",
           "tested": false
         },
