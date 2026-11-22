@@ -3,6 +3,236 @@
   "generated": "2026-11-22T12:00:00Z",
   "games": [
     {
+      "id": "top",
+      "name": "Tales of Phantasia",
+      "japan_release_year": 1995,
+      "repository": "To-Recomp/top-recomp",
+      "platforms": [
+        {
+          "platform": "Super Famicom",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Game Boy Advance",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Game Boy Advance",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Game Boy Advance",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tod",
+      "name": "Tales of Destiny",
+      "japan_release_year": 1997,
+      "repository": "To-Recomp/tod-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "toe",
+      "name": "Tales of Eternia",
+      "japan_release_year": 2000,
+      "repository": "To-Recomp/toe-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tod2",
+      "name": "Tales of Destiny 2",
+      "japan_release_year": 2002,
+      "repository": "To-Recomp/tod2-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
       "id": "tos",
       "name": "Tales of Symphonia",
       "japan_release_year": 2003,
@@ -12,6 +242,836 @@
           "platform": "GameCube",
           "region": "France (PAL)",
           "status": "unsupported",
+          "tested": false
+        },
+        {
+          "platform": "GameCube",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "GameCube",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tor",
+      "name": "Tales of Rebirth",
+      "japan_release_year": 2004,
+      "repository": "To-Recomp/tor-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation Portable",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tol",
+      "name": "Tales of Legendia",
+      "japan_release_year": 2005,
+      "repository": "To-Recomp/tol-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 2",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "toa",
+      "name": "Tales of the Abyss",
+      "japan_release_year": 2005,
+      "repository": "To-Recomp/toa-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 2",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo 3DS",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo 3DS",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo 3DS",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tov",
+      "name": "Tales of Vesperia",
+      "japan_release_year": 2008,
+      "repository": "To-Recomp/tov-recomp",
+      "platforms": [
+        {
+          "platform": "Xbox 360",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox 360",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox 360",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tog",
+      "name": "Tales of Graces",
+      "japan_release_year": 2009,
+      "repository": "To-Recomp/tog-recomp",
+      "platforms": [
+        {
+          "platform": "Wii",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tox",
+      "name": "Tales of Xillia",
+      "japan_release_year": 2011,
+      "repository": "To-Recomp/tox-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tox2",
+      "name": "Tales of Xillia 2",
+      "japan_release_year": 2012,
+      "repository": "To-Recomp/tox2-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "toz",
+      "name": "Tales of Zestiria",
+      "japan_release_year": 2015,
+      "repository": "To-Recomp/toz-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 3",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "tob",
+      "name": "Tales of Berseria",
+      "japan_release_year": 2016,
+      "repository": "To-Recomp/tob-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 3",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        }
+      ]
+    },
+    {
+      "id": "toar",
+      "name": "Tales of Arise",
+      "japan_release_year": 2021,
+      "repository": "To-Recomp/toar-recomp",
+      "platforms": [
+        {
+          "platform": "PlayStation 4",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 4",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "PlayStation 5",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox One",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Xbox Series X|S",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Windows",
+          "region": "Europe",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "region": "Japan",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "region": "USA",
+          "status": "coming-soon",
+          "tested": false
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "region": "Europe",
+          "status": "coming-soon",
           "tested": false
         }
       ]

@@ -37,7 +37,7 @@ Defined by the JSON Schema `schema/catalog-1.json`. Launchers fetch `catalog.jso
 | `games[].repository` | `owner/name` of the recomp repository; only games with one are listed |
 | `games[].manifest` | optional `https` URL of the game's `recomplauncher.json` |
 | `games[].platforms[]` | at least one; each `platform` and `region` pair appears once per game |
-| `platforms[].status` | `stable`, `beta`, `alpha` or `unsupported` |
+| `platforms[].status` | `stable`, `beta`, `alpha`, `unsupported` or `coming-soon` (announced, no playable build yet) |
 | `platforms[].tested` | boolean: someone ran it on real hardware or a reference setup |
 
 Images are not part of the catalog: the launcher shows initials.
