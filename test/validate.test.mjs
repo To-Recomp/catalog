@@ -18,6 +18,7 @@ const expected = {
   "game-missing-name.json": "name",
   "release-year-not-an-integer.json": "/games/0/japan_release_year",
   "release-year-out-of-range.json": "/games/0/japan_release_year",
+  "platform-release-year-out-of-range.json": "/games/0/platforms/0/release_year",
   "repository-not-owner-slash-name.json": "/games/0/repository",
   "game-without-platforms.json": "/games/0/platforms",
   "unknown-state.json": "/games/0/platforms/0/state",

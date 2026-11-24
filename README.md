@@ -38,6 +38,7 @@ Defined by the JSON Schema `schema/catalog-1.json`. Launchers fetch `catalog.jso
 | `games[].platforms[]` | at least one; one entry per console, each `platform` appears once per game |
 | `platforms[].regions` | at least one release region of the game on that console (`Japan`, `USA`, `Europe`, `Worldwide` for a build that is the same everywhere, as on Windows); information only, the launcher lists consoles, not regions |
 | `platforms[].state` | what the launcher can do with the console: `planned` (announced, nothing yet), `in-progress` (being worked on, not installable), `playable` (a release can be installed) or `unsupported` (won't be done) |
+| `platforms[].release_year` | optional integer, 1990 to 2100: the year the game first came out on that console (a remaster counts on the consoles it came to, not the original's); the launcher prefixes the console with it and lists the most recent first. Without it the launcher uses `japan_release_year` |
 | `platforms[].maturity` | `alpha`, `beta` or `stable`; **required when `state` is `playable`, forbidden otherwise** |
 
 Maturity: `alpha` has been run by at least one person and is expected to break; `beta` is playable from start to finish with known problems; `stable` has no known blocking problem.
