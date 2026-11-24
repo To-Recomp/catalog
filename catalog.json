@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-22T12:00:00Z",
+  "generated": "2026-11-24T12:00:00Z",
   "games": [
     {
       "id": "top",
@@ -13,14 +13,16 @@
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 1995
         },
         {
           "platform": "PlayStation",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 1998
         },
         {
           "platform": "Game Boy Advance",
@@ -29,14 +31,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2003
         },
         {
           "platform": "PlayStation Portable",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2006
         }
       ]
     },
@@ -52,14 +56,16 @@
             "Japan",
             "USA"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 1997
         },
         {
           "platform": "PlayStation 2",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2006
         }
       ]
     },
@@ -75,7 +81,8 @@
             "Japan",
             "USA"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2000
         },
         {
           "platform": "PlayStation Portable",
@@ -83,14 +90,16 @@
             "Japan",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2005
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "Nintendo Switch",
@@ -99,7 +108,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "Nintendo Switch 2",
@@ -108,7 +118,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "PlayStation 4",
@@ -117,7 +128,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "PlayStation 5",
@@ -126,7 +138,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "Xbox Series X|S",
@@ -135,7 +148,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         }
       ]
     },
@@ -150,14 +164,16 @@
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2002
         },
         {
           "platform": "PlayStation Portable",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2007
         }
       ]
     },
@@ -175,14 +191,16 @@
             "USA"
           ],
           "state": "playable",
-          "maturity": "alpha"
+          "maturity": "alpha",
+          "release_year": 2003
         },
         {
           "platform": "PlayStation 2",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2004
         },
         {
           "platform": "PlayStation 3",
@@ -191,14 +209,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2013
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2016
         },
         {
           "platform": "Nintendo Switch",
@@ -207,7 +227,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2023
         },
         {
           "platform": "PlayStation 4",
@@ -216,7 +237,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2023
         },
         {
           "platform": "Xbox One",
@@ -225,7 +247,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2023
         }
       ]
     },
@@ -240,14 +263,16 @@
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2004
         },
         {
           "platform": "PlayStation Portable",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2008
         }
       ]
     },
@@ -263,7 +288,8 @@
             "Japan",
             "USA"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2005
         }
       ]
     },
@@ -279,7 +305,8 @@
             "Japan",
             "USA"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2005
         },
         {
           "platform": "Nintendo 3DS",
@@ -288,7 +315,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2011
         }
       ]
     },
@@ -305,21 +333,24 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2008
         },
         {
           "platform": "PlayStation 3",
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2009
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2019
         },
         {
           "platform": "Nintendo Switch",
@@ -328,7 +359,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2019
         },
         {
           "platform": "PlayStation 4",
@@ -337,7 +369,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2019
         },
         {
           "platform": "Xbox One",
@@ -346,7 +379,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2019
         }
       ]
     },
@@ -361,7 +395,8 @@
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2009
         },
         {
           "platform": "PlayStation 3",
@@ -370,7 +405,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2010
         },
         {
           "platform": "Nintendo Switch",
@@ -379,7 +415,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "PlayStation 4",
@@ -388,7 +425,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "PlayStation 5",
@@ -397,7 +435,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "Xbox One",
@@ -406,7 +445,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "Xbox Series X|S",
@@ -415,14 +455,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         }
       ]
     },
@@ -439,7 +481,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2011
         },
         {
           "platform": "Nintendo Switch",
@@ -448,7 +491,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "PlayStation 5",
@@ -457,7 +501,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "Xbox Series X|S",
@@ -466,14 +511,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2025
         }
       ]
     },
@@ -490,7 +537,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2012
         }
       ]
     },
@@ -507,7 +555,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2015
         },
         {
           "platform": "PlayStation 4",
@@ -516,14 +565,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2015
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2015
         }
       ]
     },
@@ -538,7 +589,8 @@
           "regions": [
             "Japan"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2016
         },
         {
           "platform": "PlayStation 4",
@@ -547,14 +599,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2016
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2017
         },
         {
           "platform": "Nintendo Switch",
@@ -563,7 +617,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "PlayStation 5",
@@ -572,7 +627,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         },
         {
           "platform": "Xbox Series X|S",
@@ -581,7 +637,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         }
       ]
     },
@@ -598,7 +655,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2021
         },
         {
           "platform": "PlayStation 5",
@@ -607,7 +665,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2021
         },
         {
           "platform": "Xbox One",
@@ -616,7 +675,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2021
         },
         {
           "platform": "Xbox Series X|S",
@@ -625,14 +685,16 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2021
         },
         {
           "platform": "Windows",
           "regions": [
             "Worldwide"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2021
         },
         {
           "platform": "Nintendo Switch 2",
@@ -641,7 +703,8 @@
             "USA",
             "Europe"
           ],
-          "state": "planned"
+          "state": "planned",
+          "release_year": 2026
         }
       ]
     }
